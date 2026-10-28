@@ -2,37 +2,34 @@
   "images": [
     {
       "id": "creative-project",
-      "file": "assets/images/creative-project-protopia-v3.webp",
+      "file": "assets/images/creative-project-geometry-v4.webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 339602,
-      "sha256": "ee3ddc982875bf29e1b3b9cc5bb8aa040b2e47ab60bd6f09489b33115115f2b7",
-      "source_filename": "exec-92cc1c2a-84e4-4d2d-a4a4-aedefd5d9f18.png",
-      "source_sha256": "aeb7148f5de87d14f70c0a75ef1fc5025ce36dfad9fbdd54ff89d1e78c439b68",
+      "bytes": 309352,
+      "sha256": "5dd0bcd3c31b1d2ed969e26c34e9820e3e3acb091f4aa024b3b4b4269f23074f",
+      "source_filename": "exec-1ed6929f-9e33-4a4a-957a-872680655d11.png",
+      "source_sha256": "1964c2775ee08ada07f8e33cf84f6d9dc7c8712ef4402c67aef49b622d39eb50",
       "tool": "Built-in image_gen",
       "date": "2026-10-28",
-      "generation_mode": "New original composition from user-supplied style and concept references",
-      "prompt": "Create a NEW original wide 3:2 editorial concept artwork for an Australian public proposal about a fair go in the age of superintelligence. Supplied images are style/concept references ONLY: draw on their characterful cinematic humanistic futurism, grounded interactions, confident purple clothing, purposeful blue technology and warm gold light. Do not copy any identifiable person, author, face, exact composition, lettering or branding from the references. Purple, electric blue and gold remain DISTINCT colours in actual garments, interfaces and materials; skin and environment have varied natural colours. NO flat purple wash, uniform tint, corporate-stock neutrality or rustic/hippie garden aesthetic. Warm timber and nature may appear as supporting context, never the main subject. Enthusiastic human agency, creativity and useful ethical technology matter. No official government, Olympic or party logos, signage or text; no clinical equipment, treatment, coercion or claims of operating services. All people fictional. Scene: a fictional young person about 12 in a characterful amethyst-purple overshirt actively directs the creation of their own imaginative adventure game on a large desktop display, pointing to a scene choice while a trusted adult facilitator in a plum jacket listens and helps them compare two explanations. Young person's agency and curiosity visibly drive the encounter. The game contains a recognisable coastal town opening toward an imaginative Earth-to-space future, small original friendly robots and pathways, with a separate panel of chosen creative records and a seven-nested horn-torus Aura motif whose rings meet at a shared central pinch; no lettering required. Show the actual screen clearly and two little physical storyboard cards on the desk, so this is purposeful learning about choices and AI rather than passive entertainment. A stowed XR headset sits beside a tablet, optional equipment not worn. Welcoming contemporary community creative studio, cream/soft-white walls, elegant timber-and-white desk, a few blue and purple materials, golden late-afternoon daylight and distant sea/urban horizon. Emotionally warm, slightly wondrous but tangible, visually rich polished cinema still. Main learner and adult remain the focal point. No bulky booth, no clinic, no demand for personal disclosure, no decorative plant-filled room.",
+      "generation_mode": "Precise-object edits of the existing scene; only Aura display geometry and selection UI corrected",
+      "prompt": "Precise object edit. Image 1 is the target; image 2 is geometry reference. Keep the entire image exactly unchanged, including the correct red rounded horn torus, gold selected facet, all faces, the girl's long pointing arm and fingertip, all hands and all other screen panels. Only REMOVE the vertical six-colour dot strip at the far right INSIDE the monitor's upper-right red-Aura panel. Fill just that tiny strip with the panel's same dark blue background; retain one small solid red selection dot near the panel corner. The selected red shell is sufficient: do not add a rainbow strip, labels, rings or other content. No other edits.",
       "reference_images": [
         {
-          "basename": "ChatGPT Image 27 Oct 2026, 20_50_33.png",
-          "sha256": "cc1d38a95560824d1f6c578ea33f02c698c37b134d1319cd71c471429c6be789",
-          "role": "Style and concept reference; source image not copied into this website"
+          "basename": "creative-project-geometry-v4.webp",
+          "sha256": "3835219cf8e2c76ad498fa9d9e1a3583f4cd05329c3f526fbb2f82e6b30d9afd",
+          "role": "Intermediate geometry repair used as final edit target; private draft retained outside the public repository",
+          "private_archive_basename": "creative-project-geometry-six-chip-draft.webp"
         },
         {
-          "basename": "ChatGPT Image 28 Oct 2026, 03_17_48.png",
-          "sha256": "2bdd86351a555a81be4096567b2ec091a5c77853fb8637b54c22ca477a40ac96",
-          "role": "Style and concept reference; source image not copied into this website"
-        },
-        {
-          "basename": "ChatGPT Image 28 Oct 2026, 00_37_51.png",
-          "sha256": "131fa3042a18af59ae375dfcef83e2e3b63c2863127506805a38a0ceb38401a5",
-          "role": "Style and concept reference; source image not copied into this website"
+          "file": "docs/imagery/aura-geometry-reference-board.png",
+          "basename": "aura-geometry-reference-board.png",
+          "sha256": "5b8e2a3c8aabc9bf08d36226872c498177b051fdb51340d16c5f96c26a2c692a",
+          "role": "Exact Aura Matrix geometry reference; left selected-red closed horn torus, not a style reference"
         }
       ],
-      "alt": "A fictional young person in purple directs a future-world game with a trusted adult; the display connects creative choices, friendly robots and a colourful personal Aura.",
+      "alt": "A fictional young person in purple points to a future-world game with a trusted adult; the monitor’s selected red faceted Aura workspace has a gold cell and one red selection indicator.",
       "context": "AI-generated fictional editorial concept for a proposed future; not actual participants, operating facilities, tested capabilities or agreed services.",
-      "optimisation": "Converted from generated PNG to WebP quality 88 with Pillow; no pixel recolouring or filters.",
+      "optimisation": "Converted from generated PNG to WebP quality 88 with Pillow; no scripted image editing, recolouring or filters.",
       "previous_versions": [
         {
           "id": "creative-project",
@@ -48,6 +45,114 @@
           "prompt": "Use case: photorealistic-natural. Asset type: landscape editorial concept image for a public Australian young people care and learning proposal website. Create an original warm, respectful natural photographic concept scene of a fictional 12-year-old learner, seen at a three-quarter rear angle rather than a close portrait, creating a little digital garden game on a desktop monitor at a simple light timber workspace. A calm adult facilitator sits alongside at an appropriate distance, encouraging the learner's own choices; one other adult visible in the open community learning room. The monitor shows a simple lush green garden environment, no text, no game branding. Accessible open desk, sketchbook, pencils, a small plant, daylight and leafy Queensland surroundings outside. Normal safe supervised creative learning, dignified and curious, not a clinic or institutional setting. Wide landscape composition 3:2 with all people and monitor visible, balanced documentary lighting, beautiful material texture. Warm cream, muted plum upholstery, sage green and apricot details. Fictional concept, no real identifiable child, no trauma, no medical treatment, no cameras recording the children, no logos or written words, no text overlay.",
           "alt": "A fictional learner and adult facilitator explore a garden game in an open community learning room.",
           "context": "AI-generated concept depicting fictional people and a proposed setting, not actual participants or facilities."
+        },
+        {
+          "id": "creative-project",
+          "file": "assets/images/creative-project-protopia-v3.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 339602,
+          "sha256": "ee3ddc982875bf29e1b3b9cc5bb8aa040b2e47ab60bd6f09489b33115115f2b7",
+          "source_filename": "exec-92cc1c2a-84e4-4d2d-a4a4-aedefd5d9f18.png",
+          "source_sha256": "aeb7148f5de87d14f70c0a75ef1fc5025ce36dfad9fbdd54ff89d1e78c439b68",
+          "tool": "Built-in image_gen",
+          "date": "2026-10-28",
+          "generation_mode": "New original composition from user-supplied style and concept references",
+          "prompt": "Create a NEW original wide 3:2 editorial concept artwork for an Australian public proposal about a fair go in the age of superintelligence. Supplied images are style/concept references ONLY: draw on their characterful cinematic humanistic futurism, grounded interactions, confident purple clothing, purposeful blue technology and warm gold light. Do not copy any identifiable person, author, face, exact composition, lettering or branding from the references. Purple, electric blue and gold remain DISTINCT colours in actual garments, interfaces and materials; skin and environment have varied natural colours. NO flat purple wash, uniform tint, corporate-stock neutrality or rustic/hippie garden aesthetic. Warm timber and nature may appear as supporting context, never the main subject. Enthusiastic human agency, creativity and useful ethical technology matter. No official government, Olympic or party logos, signage or text; no clinical equipment, treatment, coercion or claims of operating services. All people fictional. Scene: a fictional young person about 12 in a characterful amethyst-purple overshirt actively directs the creation of their own imaginative adventure game on a large desktop display, pointing to a scene choice while a trusted adult facilitator in a plum jacket listens and helps them compare two explanations. Young person's agency and curiosity visibly drive the encounter. The game contains a recognisable coastal town opening toward an imaginative Earth-to-space future, small original friendly robots and pathways, with a separate panel of chosen creative records and a seven-nested horn-torus Aura motif whose rings meet at a shared central pinch; no lettering required. Show the actual screen clearly and two little physical storyboard cards on the desk, so this is purposeful learning about choices and AI rather than passive entertainment. A stowed XR headset sits beside a tablet, optional equipment not worn. Welcoming contemporary community creative studio, cream/soft-white walls, elegant timber-and-white desk, a few blue and purple materials, golden late-afternoon daylight and distant sea/urban horizon. Emotionally warm, slightly wondrous but tangible, visually rich polished cinema still. Main learner and adult remain the focal point. No bulky booth, no clinic, no demand for personal disclosure, no decorative plant-filled room.",
+          "reference_images": [
+            {
+              "basename": "ChatGPT Image 27 Oct 2026, 20_50_33.png",
+              "sha256": "cc1d38a95560824d1f6c578ea33f02c698c37b134d1319cd71c471429c6be789",
+              "role": "Style and concept reference; source image not copied into this website"
+            },
+            {
+              "basename": "ChatGPT Image 28 Oct 2026, 03_17_48.png",
+              "sha256": "2bdd86351a555a81be4096567b2ec091a5c77853fb8637b54c22ca477a40ac96",
+              "role": "Style and concept reference; source image not copied into this website"
+            },
+            {
+              "basename": "ChatGPT Image 28 Oct 2026, 00_37_51.png",
+              "sha256": "131fa3042a18af59ae375dfcef83e2e3b63c2863127506805a38a0ceb38401a5",
+              "role": "Style and concept reference; source image not copied into this website"
+            }
+          ],
+          "alt": "A fictional young person in purple directs a future-world game with a trusted adult; the display connects creative choices, friendly robots and a colourful personal Aura.",
+          "context": "AI-generated fictional editorial concept for a proposed future; not actual participants, operating facilities, tested capabilities or agreed services.",
+          "optimisation": "Converted from generated PNG to WebP quality 88 with Pillow; no pixel recolouring or filters."
+        }
+      ],
+      "geometry_reference": {
+        "board_file": "docs/imagery/aura-geometry-reference-board.png",
+        "board_sha256": "5b8e2a3c8aabc9bf08d36226872c498177b051fdb51340d16c5f96c26a2c692a",
+        "source_manifest_file": "docs/imagery/source-manifest.json",
+        "source_manifest_sha256": "7a29a4803e715a4c6f64139b9ffee07693cc82dd05952af7ad5d24962fc08bc0",
+        "representation": "Selected single red closed horn-torus editing view, quadrilateral lattice, gold selected facet and one filled red selection indicator. This small concept inset does not display all seven shells."
+      },
+      "edit_chain": [
+        {
+          "step": 1,
+          "tool": "Built-in image_gen",
+          "prompt": "Use case: precise-object-edit. Image 1 is the edit target; image 2 is a geometry reference board only. Change ONLY the upper-right Aura panel inside the large monitor in image 1. Replace its rainbow magnetic-field/hourglass symbol with the LEFT board's thick rounded RED horn torus: closed central pinch, no through-hole, curved quadrilateral lattice, one selected gold facet. Fit it naturally into that same panel with a small record/step panel and seven FILLED colour-chip selectors in red, orange, yellow, green, blue, indigo, violet; these selectors are solid chips, not donut icons. Preserve the monitor's perspective and all other screen panels. Preserve the entire rest of image 1 exactly: girl and mentor identities, expressions, hair, every hand and finger including the girl's extended foreground pointing arm and fingertip, clothing, desk objects, robot, light, city and framing. Do not cover, erase, move or redraw the pointing hand. Only the specified display pixels change; no new people, text captions or branding.",
+          "inputs": [
+            {
+              "file": "assets/images/creative-project-protopia-v3.webp",
+              "basename": "creative-project-protopia-v3.webp",
+              "sha256": "ee3ddc982875bf29e1b3b9cc5bb8aa040b2e47ab60bd6f09489b33115115f2b7",
+              "role": "Original published protopia-v3 scene edit target"
+            },
+            {
+              "file": "docs/imagery/aura-geometry-reference-board.png",
+              "basename": "aura-geometry-reference-board.png",
+              "sha256": "5b8e2a3c8aabc9bf08d36226872c498177b051fdb51340d16c5f96c26a2c692a",
+              "role": "Exact Aura Matrix geometry reference; left selected-red closed horn torus, not a style reference"
+            }
+          ],
+          "result": "Failed: image generation failed: network error: error sending request; no output"
+        },
+        {
+          "step": 2,
+          "tool": "Built-in image_gen",
+          "prompt": "Precise object edit. Image 1 is the target; image 2 is geometry reference. ONLY replace the rainbow symbol inside the monitor's upper-right panel with the LEFT reference's thick rounded RED horn torus, closed pinch/no through-hole, quad grid and one gold selected facet. Include seven small SOLID colour chips ROYGBIV and a tiny records panel within that same UI field. Keep the girl's extended pointing arm, hand and fingertip EXACTLY intact. Keep all people, other screen content, objects, setting, lighting and framing unchanged. No hourglass, magnetic field, extra rings or open hole.",
+          "inputs": [
+            {
+              "file": "assets/images/creative-project-protopia-v3.webp",
+              "basename": "creative-project-protopia-v3.webp",
+              "sha256": "ee3ddc982875bf29e1b3b9cc5bb8aa040b2e47ab60bd6f09489b33115115f2b7",
+              "role": "Original published protopia-v3 scene edit target"
+            },
+            {
+              "file": "docs/imagery/aura-geometry-reference-board.png",
+              "basename": "aura-geometry-reference-board.png",
+              "sha256": "5b8e2a3c8aabc9bf08d36226872c498177b051fdb51340d16c5f96c26a2c692a",
+              "role": "Exact Aura Matrix geometry reference; left selected-red closed horn torus, not a style reference"
+            }
+          ],
+          "output_filename": "exec-81d89d53-7136-40d3-9945-1513e7b08fc4.png",
+          "output_sha256": "a7f9496d27c5494fd54ecd5c7fe29597007e464874eeef88d66d8053395bb609",
+          "intermediate_webp_sha256": "3835219cf8e2c76ad498fa9d9e1a3583f4cd05329c3f526fbb2f82e6b30d9afd",
+          "result": "Geometry and hands preserved; six-chip selector strip required a narrower follow-up. Intermediate not published."
+        },
+        {
+          "step": 3,
+          "tool": "Built-in image_gen",
+          "prompt": "Precise object edit. Image 1 is the target; image 2 is geometry reference. Keep the entire image exactly unchanged, including the correct red rounded horn torus, gold selected facet, all faces, the girl's long pointing arm and fingertip, all hands and all other screen panels. Only REMOVE the vertical six-colour dot strip at the far right INSIDE the monitor's upper-right red-Aura panel. Fill just that tiny strip with the panel's same dark blue background; retain one small solid red selection dot near the panel corner. The selected red shell is sufficient: do not add a rainbow strip, labels, rings or other content. No other edits.",
+          "inputs": [
+            {
+              "basename": "creative-project-geometry-v4.webp",
+              "sha256": "3835219cf8e2c76ad498fa9d9e1a3583f4cd05329c3f526fbb2f82e6b30d9afd",
+              "role": "Intermediate geometry repair used as final edit target; private draft retained outside the public repository",
+              "private_archive_basename": "creative-project-geometry-six-chip-draft.webp"
+            },
+            {
+              "file": "docs/imagery/aura-geometry-reference-board.png",
+              "basename": "aura-geometry-reference-board.png",
+              "sha256": "5b8e2a3c8aabc9bf08d36226872c498177b051fdb51340d16c5f96c26a2c692a",
+              "role": "Exact Aura Matrix geometry reference; left selected-red closed horn torus, not a style reference"
+            }
+          ],
+          "output_filename": "exec-1ed6929f-9e33-4a4a-957a-872680655d11.png",
+          "output_sha256": "1964c2775ee08ada07f8e33cf84f6d9dc7c8712ef4402c67aef49b622d39eb50",
+          "result": "Selected: multicolour strip removed; one solid red selection indicator remains. Red horn torus/gold cell and scene/foreground hands preserved."
         }
       ]
     },
@@ -104,37 +209,34 @@
     },
     {
       "id": "future-work",
-      "file": "assets/images/future-work-protopia-v3.webp",
+      "file": "assets/images/future-work-geometry-v4.webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 386534,
-      "sha256": "79ec8fd4cc7fcbec5c15341a2fa44222dbe3ef0ecd5771cde0200caee0f23e64",
-      "source_filename": "exec-9eddb1c2-fee2-4601-a588-517bdcafe411.png",
-      "source_sha256": "2635413a02c155865038688d8f68af9c99323c413538d5e99f8d5832fda48749",
+      "bytes": 340410,
+      "sha256": "94b9791e124c7c9a988844934d0030c76b4707082d76c45b1ad65eb994433d06",
+      "source_filename": "exec-57f1ec45-a15a-4691-a510-9cd9932e1ecf.png",
+      "source_sha256": "6c15690178702a3cf41174e129e4f2e7e0051fffef7436ef9f7cf55fd8d7f9cb",
       "tool": "Built-in image_gen",
       "date": "2026-10-28",
-      "generation_mode": "New original composition from user-supplied style and concept references",
-      "prompt": "Create a NEW original wide 3:2 editorial concept artwork for an Australian public proposal about a fair go in the age of superintelligence. Supplied images are style/concept references ONLY: draw on their characterful cinematic humanistic futurism, grounded interactions, confident purple clothing, purposeful blue technology and warm gold light. Do not copy any identifiable person, author, face, exact composition, lettering or branding from the references. Purple, electric blue and gold remain DISTINCT colours in actual garments, interfaces and materials; skin and environment have varied natural colours. NO flat purple wash, uniform tint, corporate-stock neutrality or rustic/hippie garden aesthetic. Warm timber and nature may appear as supporting context, never the main subject. Enthusiastic human agency, creativity and useful ethical technology matter. No official government, Olympic or party logos, signage or text; no clinical equipment, treatment, coercion or claims of operating services. All people fictional. Scene: a fictional young adult about 20, wearing a distinctive amethyst-purple utility jacket with subtle gold fastenings, works as an active designer alongside an experienced older business owner and mentor wearing a dark plum shirt, in an advanced Australian small manufacturing studio. They inspect a tangible elegant robotic-gripper prototype and compare its design to a large blue-and-gold CAD display. The young adult explains a choice while the mentor responds with engaged respect, suggesting a generational exchange of practical knowledge and future ownership opportunity without any financial promise. Behind a clear safe enclosure, a compact robot arm works on a precisely modelled component; another display or physical miniature connects that component to a speculative Earth-orbit habitat. Include purposeful AI/Aura assistance as a visible screen panel with linked design records and a small nested horn-torus motif, not a magical humanoid replacing the people. Warm clean timber work surface, metallic equipment, white and charcoal storage, practical purple tool details, characterful personal style. Beautiful varied natural skin tones, crisp daylight, warm gold task light and a distant blue city-and-coast horizon. Clear enthusiastic agency, learning and a protopian Earth-to-space ambition. Not a generic repair cafe, not rustic, not a sterile corporate stock photo, no slogans, logos or text.",
+      "generation_mode": "Precise-object edits of the existing scene; only Aura display geometry and selection UI corrected",
+      "prompt": "Precise object edit. Image 1 is the target; image 2 is geometry reference. Keep the entire image exactly unchanged, especially the correct red rounded horn torus and gold selected facet, every face, hand, robot part, and mechanical ring. Only REMOVE the vertical six-colour dot strip immediately to the right of the red torus inside the lower-right transparent display. Replace that tiny strip with the display's matching dark transparent blue background; retain just ONE small solid RED selection dot at the top. A selected single red shell is enough. No rainbow strip, new labels or other content. Preserve both people's hands and the held robotic gripper exactly. No other edits.",
       "reference_images": [
         {
-          "basename": "choose-your-own-protopia-landscape-v1.png",
-          "sha256": "3c210ea98518df0f499489104729282d0e7f811b9a8d3fbed8d71aa1da3cfcff",
-          "role": "Style and concept reference; source image not copied into this website"
+          "basename": "future-work-geometry-v4.webp",
+          "sha256": "7ffc0c664dc09dd121f98df81e45642242bfce202777f6a22792c28b88212915",
+          "role": "Intermediate geometry repair used as final edit target; private draft retained outside the public repository",
+          "private_archive_basename": "future-work-geometry-six-chip-draft.webp"
         },
         {
-          "basename": "ChatGPT Image 28 Oct 2026, 03_17_48.png",
-          "sha256": "2bdd86351a555a81be4096567b2ec091a5c77853fb8637b54c22ca477a40ac96",
-          "role": "Style and concept reference; source image not copied into this website"
-        },
-        {
-          "basename": "ChatGPT Image 28 Oct 2026, 00_37_51.png",
-          "sha256": "131fa3042a18af59ae375dfcef83e2e3b63c2863127506805a38a0ceb38401a5",
-          "role": "Style and concept reference; source image not copied into this website"
+          "file": "docs/imagery/aura-geometry-reference-board.png",
+          "basename": "aura-geometry-reference-board.png",
+          "sha256": "5b8e2a3c8aabc9bf08d36226872c498177b051fdb51340d16c5f96c26a2c692a",
+          "role": "Exact Aura Matrix geometry reference; left selected-red closed horn torus, not a style reference"
         }
       ],
-      "alt": "A fictional young adult in amethyst explains a robotic-gripper prototype to an experienced mentor, with Aura design records and an imagined orbital habitat on displays.",
+      "alt": "A fictional young adult and experienced mentor compare a robotic gripper with design records; a transparent display shows a selected red faceted Aura workspace and gold cell.",
       "context": "AI-generated fictional editorial concept for a proposed future; not actual participants, operating facilities, tested capabilities or agreed services.",
-      "optimisation": "Converted from generated PNG to WebP quality 88 with Pillow; no pixel recolouring or filters.",
+      "optimisation": "Converted from generated PNG to WebP quality 88 with Pillow; no scripted image editing, recolouring or filters.",
       "previous_versions": [
         {
           "id": "future-work",
@@ -150,6 +252,116 @@
           "prompt": "Use case: photorealistic-natural. Asset type: landscape editorial concept image for an Australian future work and mentorship proposal website. Create an original natural photographic concept scene in a bright small Australian fabrication and repair studio. A fictional young adult aged about 20 and an experienced older business owner work side by side, inspecting a small desktop 3D-printed prototype and a repairable household object on a timber workbench. A computer with a simple abstract three dimensional object, tidy shelves, beautiful light tools, large windows overlooking leafy Australian streetscape. Show a dignified generational handover of knowledge, cooperative attention and a young person's agency. People are engaged rather than posing. Warm cream, plum, sage and apricot details, clear daylight, balanced wide 3:2 composition, documentary editorial realism. No real identifiable people, text, logos, promises of employment, clinical equipment or robots dominating humans. Fictional proposed setting, no text overlay.",
           "alt": "A fictional young adult and experienced owner inspect a prototype in a repair and fabrication studio.",
           "context": "AI-generated concept depicting fictional people and a proposed setting, not actual participants or facilities."
+        },
+        {
+          "id": "future-work",
+          "file": "assets/images/future-work-protopia-v3.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 386534,
+          "sha256": "79ec8fd4cc7fcbec5c15341a2fa44222dbe3ef0ecd5771cde0200caee0f23e64",
+          "source_filename": "exec-9eddb1c2-fee2-4601-a588-517bdcafe411.png",
+          "source_sha256": "2635413a02c155865038688d8f68af9c99323c413538d5e99f8d5832fda48749",
+          "tool": "Built-in image_gen",
+          "date": "2026-10-28",
+          "generation_mode": "New original composition from user-supplied style and concept references",
+          "prompt": "Create a NEW original wide 3:2 editorial concept artwork for an Australian public proposal about a fair go in the age of superintelligence. Supplied images are style/concept references ONLY: draw on their characterful cinematic humanistic futurism, grounded interactions, confident purple clothing, purposeful blue technology and warm gold light. Do not copy any identifiable person, author, face, exact composition, lettering or branding from the references. Purple, electric blue and gold remain DISTINCT colours in actual garments, interfaces and materials; skin and environment have varied natural colours. NO flat purple wash, uniform tint, corporate-stock neutrality or rustic/hippie garden aesthetic. Warm timber and nature may appear as supporting context, never the main subject. Enthusiastic human agency, creativity and useful ethical technology matter. No official government, Olympic or party logos, signage or text; no clinical equipment, treatment, coercion or claims of operating services. All people fictional. Scene: a fictional young adult about 20, wearing a distinctive amethyst-purple utility jacket with subtle gold fastenings, works as an active designer alongside an experienced older business owner and mentor wearing a dark plum shirt, in an advanced Australian small manufacturing studio. They inspect a tangible elegant robotic-gripper prototype and compare its design to a large blue-and-gold CAD display. The young adult explains a choice while the mentor responds with engaged respect, suggesting a generational exchange of practical knowledge and future ownership opportunity without any financial promise. Behind a clear safe enclosure, a compact robot arm works on a precisely modelled component; another display or physical miniature connects that component to a speculative Earth-orbit habitat. Include purposeful AI/Aura assistance as a visible screen panel with linked design records and a small nested horn-torus motif, not a magical humanoid replacing the people. Warm clean timber work surface, metallic equipment, white and charcoal storage, practical purple tool details, characterful personal style. Beautiful varied natural skin tones, crisp daylight, warm gold task light and a distant blue city-and-coast horizon. Clear enthusiastic agency, learning and a protopian Earth-to-space ambition. Not a generic repair cafe, not rustic, not a sterile corporate stock photo, no slogans, logos or text.",
+          "reference_images": [
+            {
+              "basename": "choose-your-own-protopia-landscape-v1.png",
+              "sha256": "3c210ea98518df0f499489104729282d0e7f811b9a8d3fbed8d71aa1da3cfcff",
+              "role": "Style and concept reference; source image not copied into this website"
+            },
+            {
+              "basename": "ChatGPT Image 28 Oct 2026, 03_17_48.png",
+              "sha256": "2bdd86351a555a81be4096567b2ec091a5c77853fb8637b54c22ca477a40ac96",
+              "role": "Style and concept reference; source image not copied into this website"
+            },
+            {
+              "basename": "ChatGPT Image 28 Oct 2026, 00_37_51.png",
+              "sha256": "131fa3042a18af59ae375dfcef83e2e3b63c2863127506805a38a0ceb38401a5",
+              "role": "Style and concept reference; source image not copied into this website"
+            }
+          ],
+          "alt": "A fictional young adult in amethyst explains a robotic-gripper prototype to an experienced mentor, with Aura design records and an imagined orbital habitat on displays.",
+          "context": "AI-generated fictional editorial concept for a proposed future; not actual participants, operating facilities, tested capabilities or agreed services.",
+          "optimisation": "Converted from generated PNG to WebP quality 88 with Pillow; no pixel recolouring or filters."
+        }
+      ],
+      "geometry_reference": {
+        "board_file": "docs/imagery/aura-geometry-reference-board.png",
+        "board_sha256": "5b8e2a3c8aabc9bf08d36226872c498177b051fdb51340d16c5f96c26a2c692a",
+        "source_manifest_file": "docs/imagery/source-manifest.json",
+        "source_manifest_sha256": "7a29a4803e715a4c6f64139b9ffee07693cc82dd05952af7ad5d24962fc08bc0",
+        "representation": "Selected single red closed horn-torus editing view, quadrilateral lattice, gold selected facet and one filled red selection indicator. This small concept inset does not display all seven shells."
+      },
+      "edit_chain": [
+        {
+          "step": 1,
+          "tool": "Built-in image_gen",
+          "prompt": "Use case: precise-object-edit. Image 1 is the edit target; image 2 is a geometry reference board only. Change ONLY the Aura graphic field in the upper half of the lower-right transparent desktop display in image 1. Replace that blue/gold magnetic-field symbol with the LEFT board's thick rounded RED horn torus: closed central pinch, no through-hole, curved quadrilateral lattice, one selected gold facet. Add a modest record/step panel and seven FILLED colour-chip selectors red, orange, yellow, green, blue, indigo, violet, not donut icons. Match the existing display perspective, translucency and blue interface, leaving its lower robotic-gripper and space-habitat panels intact. Preserve every pixel outside this Aura display field: both people, expressions, hair, all hands and fingers, the held robotic gripper, tools, foreground tablet, other monitors, real robotic arm, habitat models, room, Sydney view, lighting and framing. In particular retain the young adult's gesturing hand and supporting fingers and the mentor's chin hand and forearm. Do not replace any mechanical rings elsewhere. No added branding or captions.",
+          "inputs": [
+            {
+              "file": "assets/images/future-work-protopia-v3.webp",
+              "basename": "future-work-protopia-v3.webp",
+              "sha256": "79ec8fd4cc7fcbec5c15341a2fa44222dbe3ef0ecd5771cde0200caee0f23e64",
+              "role": "Original published protopia-v3 scene edit target"
+            },
+            {
+              "file": "docs/imagery/aura-geometry-reference-board.png",
+              "basename": "aura-geometry-reference-board.png",
+              "sha256": "5b8e2a3c8aabc9bf08d36226872c498177b051fdb51340d16c5f96c26a2c692a",
+              "role": "Exact Aura Matrix geometry reference; left selected-red closed horn torus, not a style reference"
+            }
+          ],
+          "output_filename": "exec-07626220-6d24-4290-933a-92dd83f76227.png",
+          "output_sha256": "761456a5c75bf6858ff544482412b72eb19ff9d209a45d2f989009b594e28f5d",
+          "intermediate_webp_sha256": "7ffc0c664dc09dd121f98df81e45642242bfce202777f6a22792c28b88212915",
+          "result": "Geometry and hands preserved; six-chip selector strip required a narrower follow-up. Intermediate not published."
+        },
+        {
+          "step": 2,
+          "tool": "Built-in image_gen",
+          "prompt": "Precise object edit. Image 1 is the target; image 2 is geometry reference. Keep the entire image unchanged, especially every face, hand, robotic tool and the correct red horn torus. Only correct the vertical colour selector strip immediately to the right of the red torus on the lower-right transparent display. It currently has six solid coloured dots. Replace that strip with EXACTLY SEVEN separate small FILLED chips, in order from top: RED, ORANGE, YELLOW, GREEN, BLUE, INDIGO, VIOLET. Add the missing indigo between blue and violet and make chips slightly smaller to fit. No rings; no other edits.",
+          "inputs": [
+            {
+              "basename": "future-work-geometry-v4.webp",
+              "sha256": "7ffc0c664dc09dd121f98df81e45642242bfce202777f6a22792c28b88212915",
+              "role": "Intermediate geometry repair used as final edit target; private draft retained outside the public repository",
+              "private_archive_basename": "future-work-geometry-six-chip-draft.webp"
+            },
+            {
+              "file": "docs/imagery/aura-geometry-reference-board.png",
+              "basename": "aura-geometry-reference-board.png",
+              "sha256": "5b8e2a3c8aabc9bf08d36226872c498177b051fdb51340d16c5f96c26a2c692a",
+              "role": "Exact Aura Matrix geometry reference; left selected-red closed horn torus, not a style reference"
+            }
+          ],
+          "output_filename": "exec-617ded35-e527-46f2-ac5c-d31bfe72bc9d.png",
+          "output_sha256": "a305e057ede59f72dc496194ebc38c0284a5b4c88a22adede67b6148e0efaaa6",
+          "result": "Not selected: count repair still showed six chips. Output retained privately in the generation workspace."
+        },
+        {
+          "step": 3,
+          "tool": "Built-in image_gen",
+          "prompt": "Precise object edit. Image 1 is the target; image 2 is geometry reference. Keep the entire image exactly unchanged, especially the correct red rounded horn torus and gold selected facet, every face, hand, robot part, and mechanical ring. Only REMOVE the vertical six-colour dot strip immediately to the right of the red torus inside the lower-right transparent display. Replace that tiny strip with the display's matching dark transparent blue background; retain just ONE small solid RED selection dot at the top. A selected single red shell is enough. No rainbow strip, new labels or other content. Preserve both people's hands and the held robotic gripper exactly. No other edits.",
+          "inputs": [
+            {
+              "basename": "future-work-geometry-v4.webp",
+              "sha256": "7ffc0c664dc09dd121f98df81e45642242bfce202777f6a22792c28b88212915",
+              "role": "Intermediate geometry repair used as final edit target; private draft retained outside the public repository",
+              "private_archive_basename": "future-work-geometry-six-chip-draft.webp"
+            },
+            {
+              "file": "docs/imagery/aura-geometry-reference-board.png",
+              "basename": "aura-geometry-reference-board.png",
+              "sha256": "5b8e2a3c8aabc9bf08d36226872c498177b051fdb51340d16c5f96c26a2c692a",
+              "role": "Exact Aura Matrix geometry reference; left selected-red closed horn torus, not a style reference"
+            }
+          ],
+          "output_filename": "exec-57f1ec45-a15a-4691-a510-9cd9932e1ecf.png",
+          "output_sha256": "6c15690178702a3cf41174e129e4f2e7e0051fffef7436ef9f7cf55fd8d7f9cb",
+          "result": "Selected: multicolour strip removed; one solid red selection indicator remains. Red horn torus/gold cell and scene/foreground hands preserved."
         }
       ]
     }

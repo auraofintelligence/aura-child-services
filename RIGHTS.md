@@ -25,3 +25,5 @@ Care services, adoption arrangements, school approvals, legal authority, worker 
 The site uses installed system fonts; no font files or external font services are bundled. No accounts, analytics, forms, remote personal-data capture or participant records are provided. External websites have their own practices.
 
 Crawler discovery, sitemaps and `llms.txt` grant no additional reuse, commercial or AI-training rights. The licence, ownership and third-party permissions remain applicable.
+
+The version-4 geometry repairs change only Aura display imagery and selection UI, using the approved canonical Matrix board in `docs/imagery/`. Selected single-red-shell workspaces are shown with a gold facet and one red selection indicator. The published version-3 scenes and metadata remain preserved. `content/artwork.json` records exact prompts, input/output hashes and edit chains; unselected intermediate drafts remain outside the public repository. The later geometry and architecture sources inform artwork only and do not replace the original written readings.
