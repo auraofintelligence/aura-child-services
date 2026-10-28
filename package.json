@@ -1,0 +1,11 @@
+{
+  "name": "aura-child-services",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A public source-linked proposal for children and young people in Australian care.",
+  "scripts": {
+    "build": "python scripts/build.py",
+    "check": "python scripts/check.py",
+    "dev": "python -m http.server 4197 --bind 127.0.0.1"
+  }
+}

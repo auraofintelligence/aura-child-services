@@ -1,0 +1,92 @@
+[
+  {
+    "id": "index",
+    "nav": "Welcome",
+    "title": "Room to discover who you can become.",
+    "intro": "Begin with something you enjoy. Build understanding, make something of your own and find people who help you take the next step."
+  },
+  {
+    "id": "opportunity",
+    "nav": "A wider opportunity",
+    "title": "A future with more possibilities.",
+    "intro": "The proposal connects everyday childhood opportunity with a wider question: how can young people share in the capabilities of increasingly powerful intelligence?"
+  },
+  {
+    "id": "personal-aura",
+    "nav": "Aura and self understanding",
+    "title": "Start with your own interests.",
+    "intro": "A supported computing station offers a place to make, learn and reflect. The young person brings the meaning; the record can change as their understanding grows."
+  },
+  {
+    "id": "law-and-rights",
+    "nav": "Understanding law",
+    "title": "Understand the rules around you.",
+    "intro": "Follow a question to a readable source. Learn why a rule exists, whose decision it affects and what needs checking in the present setting."
+  },
+  {
+    "id": "first-project",
+    "nav": "A first project",
+    "title": "Make something. Find your next step.",
+    "intro": "A small creative project can reveal what someone enjoys, what gets in the way and which person or resource would help them continue."
+  },
+  {
+    "id": "family-and-identity",
+    "nav": "Family, care and identity",
+    "title": "Keep the relationships that matter.",
+    "intro": "A life can hold several important relationships. Chosen memories, useful information and cultural connections need room to retain their meaning through change."
+  },
+  {
+    "id": "adult-opportunities",
+    "nav": "Growing into adult life",
+    "title": "A wider view of adult life.",
+    "intro": "Mentors, practical work experience, shared productive ownership and planned time for life offer different possibilities to investigate as young people grow into adulthood."
+  },
+  {
+    "id": "community",
+    "nav": "Contribution and wellbeing",
+    "title": "Belong through shared everyday life.",
+    "intro": "A useful task, a shared meal or a welcoming invitation can connect people. Communities choose their recognition, while essential support remains independent of contribution."
+  },
+  {
+    "id": "civic-futures",
+    "nav": "2032 and civic futures",
+    "title": "A local beginning. A long horizon.",
+    "intro": "Local learning and a lasting volunteer network connect the Olympic horizon with young adults investigating the future of their communities, Earth and space."
+  },
+  {
+    "id": "people-and-control",
+    "nav": "People and personal control",
+    "title": "Real people. Clear choices.",
+    "intro": "The young person can ask questions, correct a record and turn to accountable adults. Learning, recording, research and publication each need an understandable purpose and actual arrangements."
+  },
+  {
+    "id": "development",
+    "nav": "Developing the proposal",
+    "title": "Begin where people can follow through.",
+    "intro": "A useful pilot needs a willing host, time, support and something concrete to try. Young people help shape it, and what happens changes the next step."
+  },
+  {
+    "id": "sources",
+    "nav": "Sources and original document",
+    "title": "Follow the proposal to its sources.",
+    "intro": "Read the unchanged original, follow every project and public-guidance reference, and distinguish the proposal from evidence about outcomes."
+  },
+  {
+    "id": "connections",
+    "nav": "Connected projects",
+    "title": "Find the part you want to explore.",
+    "intro": "Related projects offer background, tools and development directions. Each has its own scope and status; a link does not establish a service or partnership."
+  },
+  {
+    "id": "licence",
+    "nav": "About and licence",
+    "title": "Authorship, rights and this website.",
+    "intro": "A public reading guide to Luke Nathan Hayes’s proposal, with the original document, exact source links and clearly identified concept artwork."
+  },
+  {
+    "id": "sitemap",
+    "nav": "Sitemap",
+    "title": "Choose your own route.",
+    "intro": "Follow the chapters in sequence or begin with the question that matters to you."
+  }
+]

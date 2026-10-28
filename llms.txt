@@ -1,0 +1,28 @@
+# Aura · Children and young people
+
+> A public proposal by Luke Nathan Hayes for supported learning, personal Aura, relationships, rights and opportunities for adulthood in Australian care.
+
+Canonical website: https://auraofintelligence.github.io/aura-child-services/
+Source repository: https://github.com/auraofintelligence/aura-child-services
+Licence: https://github.com/auraofintelligence/aura-child-services/blob/main/LICENCE.md
+Rights: https://github.com/auraofintelligence/aura-child-services/blob/main/RIGHTS.md
+Original document: https://auraofintelligence.github.io/aura-child-services/documents/Aura_Genesis_Children_and_Teens_Australian_Care.docx
+
+## Public pages
+- [Welcome](https://auraofintelligence.github.io/aura-child-services/): Begin with something you enjoy. Build understanding, make something of your own and find people who help you take the next step.
+- [A wider opportunity](https://auraofintelligence.github.io/aura-child-services/opportunity.html): The proposal connects everyday childhood opportunity with a wider question: how can young people share in the capabilities of increasingly powerful intelligence?
+- [Aura and self understanding](https://auraofintelligence.github.io/aura-child-services/personal-aura.html): A supported computing station offers a place to make, learn and reflect. The young person brings the meaning; the record can change as their understanding grows.
+- [Understanding law](https://auraofintelligence.github.io/aura-child-services/law-and-rights.html): Follow a question to a readable source. Learn why a rule exists, whose decision it affects and what needs checking in the present setting.
+- [A first project](https://auraofintelligence.github.io/aura-child-services/first-project.html): A small creative project can reveal what someone enjoys, what gets in the way and which person or resource would help them continue.
+- [Family, care and identity](https://auraofintelligence.github.io/aura-child-services/family-and-identity.html): A life can hold several important relationships. Chosen memories, useful information and cultural connections need room to retain their meaning through change.
+- [Growing into adult life](https://auraofintelligence.github.io/aura-child-services/adult-opportunities.html): Mentors, practical work experience, shared productive ownership and planned time for life offer different possibilities to investigate as young people grow into adulthood.
+- [Contribution and wellbeing](https://auraofintelligence.github.io/aura-child-services/community.html): A useful task, a shared meal or a welcoming invitation can connect people. Communities choose their recognition, while essential support remains independent of contribution.
+- [2032 and civic futures](https://auraofintelligence.github.io/aura-child-services/civic-futures.html): Local learning and a lasting volunteer network connect the Olympic horizon with young adults investigating the future of their communities, Earth and space.
+- [People and personal control](https://auraofintelligence.github.io/aura-child-services/people-and-control.html): The young person can ask questions, correct a record and turn to accountable adults. Learning, recording, research and publication each need an understandable purpose and actual arrangements.
+- [Developing the proposal](https://auraofintelligence.github.io/aura-child-services/development.html): A useful pilot needs a willing host, time, support and something concrete to try. Young people help shape it, and what happens changes the next step.
+- [Sources and original document](https://auraofintelligence.github.io/aura-child-services/sources.html): Read the unchanged original, follow every project and public-guidance reference, and distinguish the proposal from evidence about outcomes.
+- [Connected projects](https://auraofintelligence.github.io/aura-child-services/connections.html): Related projects offer background, tools and development directions. Each has its own scope and status; a link does not establish a service or partnership.
+- [About and licence](https://auraofintelligence.github.io/aura-child-services/licence.html): A public reading guide to Luke Nathan Hayes’s proposal, with the original document, exact source links and clearly identified concept artwork.
+- [Sitemap](https://auraofintelligence.github.io/aura-child-services/sitemap.html): Follow the chapters in sequence or begin with the question that matters to you.
+
+The child and teen proposal uses Verse Box and everyday learning, not adult pressure treatment. Adult teacher training is facilitator context. C-Hours are nonmonetary voluntary contribution; essential support is independent. This is a public proposal, not an operating care service, recruitment platform or qualification. Discovery grants no additional reuse or AI-training rights.

@@ -1,0 +1,23 @@
+# Merge into https://auraofintelligence.github.io/robots.txt, preserving all existing policies.
+# This scoped snippet is not a replacement for the origin-root file.
+# Existing named user-agent groups need their own project entry; named groups do not inherit wildcard rules.
+# Discovery grants no extra copyright, commercial reuse or AI-training rights.
+User-agent: *
+Allow: /aura-child-services/
+
+User-agent: OAI-SearchBot
+Allow: /aura-child-services/
+
+User-agent: Claude-SearchBot
+Allow: /aura-child-services/
+
+User-agent: GPTBot
+Disallow: /aura-child-services/
+
+User-agent: ClaudeBot
+Disallow: /aura-child-services/
+
+User-agent: Google-Extended
+Disallow: /aura-child-services/
+
+Sitemap: https://auraofintelligence.github.io/aura-child-services/sitemap.xml

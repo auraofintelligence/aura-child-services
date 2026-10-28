@@ -1,0 +1,5 @@
+// Progressive enhancement only. No network requests, accounts or saved personal records.
+document.addEventListener('keydown',event=>{if(event.key==='Escape'){document.querySelectorAll('.all-pages[open]').forEach(menu=>{menu.open=false;menu.querySelector('summary').focus();});}});
+document.addEventListener('click',event=>{document.querySelectorAll('.all-pages[open]').forEach(menu=>{if(!menu.contains(event.target))menu.open=false;});});
+const search=document.querySelector('[data-search]');
+if(search){const control=document.querySelector('[data-search-control]');const status=document.querySelector('[data-search-status]');const items=[...document.querySelectorAll('[data-search-item]')];control.hidden=false;search.addEventListener('input',()=>{const query=search.value.trim().toLocaleLowerCase();let count=0;items.forEach(item=>{const match=item.textContent.toLocaleLowerCase().includes(query);item.hidden=!match;if(match)count++;});status.hidden=!query;status.textContent=count?`${count} ${count===1?'page':'pages'} found.`:'No pages found. Try another word or clear the search.';});}

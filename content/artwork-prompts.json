@@ -1,0 +1,18 @@
+{
+  "generation": "Built-in image_gen tool",
+  "date": "2026-10-28",
+  "prompts": [
+    {
+      "key": "creative",
+      "prompt": "Use case: photorealistic-natural. Asset type: landscape editorial concept image for a public Australian young people care and learning proposal website. Create an original warm, respectful natural photographic concept scene of a fictional 12-year-old learner, seen at a three-quarter rear angle rather than a close portrait, creating a little digital garden game on a desktop monitor at a simple light timber workspace. A calm adult facilitator sits alongside at an appropriate distance, encouraging the learner's own choices; one other adult visible in the open community learning room. The monitor shows a simple lush green garden environment, no text, no game branding. Accessible open desk, sketchbook, pencils, a small plant, daylight and leafy Queensland surroundings outside. Normal safe supervised creative learning, dignified and curious, not a clinic or institutional setting. Wide landscape composition 3:2 with all people and monitor visible, balanced documentary lighting, beautiful material texture. Warm cream, muted plum upholstery, sage green and apricot details. Fictional concept, no real identifiable child, no trauma, no medical treatment, no cameras recording the children, no logos or written words, no text overlay."
+    },
+    {
+      "key": "mentorship",
+      "prompt": "Use case: photorealistic-natural. Asset type: landscape editorial concept image for a public Australian young people learning and community proposal. Original candid photographic concept scene of a small mixed-age community group in an open, welcoming Queensland community workshop: two fictional older teenage learners aged 16-17 with an adult mentor and a mature volunteer, collaborating on a small garden sensor and sketch map of a community garden. An accessible table, notebook, small electronic sensor, plants and ordinary hand tools kept safely on the table. The young people direct the project and converse with the adults as respected collaborators. Warm daylight, open doors towards greenery, natural clothing, gentle plum and sage accents, welcoming warm paper/apricot material palette. Wide 3:2 composition, natural hands and interactions, positive ordinary creative learning. No logos, written slogans, actual identifiable people, clinic, trauma imagery, medical equipment or surveillance. Nothing suggests an operating service or guaranteed partnership. No text overlay."
+    },
+    {
+      "key": "future",
+      "prompt": "Use case: photorealistic-natural. Asset type: landscape editorial concept image for an Australian future work and mentorship proposal website. Create an original natural photographic concept scene in a bright small Australian fabrication and repair studio. A fictional young adult aged about 20 and an experienced older business owner work side by side, inspecting a small desktop 3D-printed prototype and a repairable household object on a timber workbench. A computer with a simple abstract three dimensional object, tidy shelves, beautiful light tools, large windows overlooking leafy Australian streetscape. Show a dignified generational handover of knowledge, cooperative attention and a young person's agency. People are engaged rather than posing. Warm cream, plum, sage and apricot details, clear daylight, balanced wide 3:2 composition, documentary editorial realism. No real identifiable people, text, logos, promises of employment, clinical equipment or robots dominating humans. Fictional proposed setting, no text overlay."
+    }
+  ]
+}

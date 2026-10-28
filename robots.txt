@@ -1,0 +1,6 @@
+# Informational project copy: crawler rules must be served at the origin root.
+# Merge .github/robots-root-snippet.txt into https://auraofintelligence.github.io/robots.txt
+# Preserve every other project policy. Discovery grants no additional reuse or AI-training rights.
+User-agent: *
+Allow: /
+Sitemap: https://auraofintelligence.github.io/aura-child-services/sitemap.xml
