@@ -1,0 +1,47 @@
+{
+  "personal-aura": [
+    {
+      "module": "learning",
+      "mode": "layers",
+      "example": "creative",
+      "after_id": "source-p-37",
+      "reason": "Original personal/place digital representation and continuity."
+    }
+  ],
+  "family-and-identity": [
+    {
+      "module": "everyday",
+      "mode": "place",
+      "example": "memory",
+      "after_id": "source-p-103",
+      "reason": "Original chosen family/kin/friend memory preservation."
+    }
+  ],
+  "community": [
+    {
+      "module": "everyday",
+      "mode": "mates",
+      "example": "event",
+      "after_id": "source-p-167",
+      "reason": "Original teenager preparing community gathering material."
+    }
+  ],
+  "people-and-control": [
+    {
+      "module": "learning",
+      "mode": "inside",
+      "example": "creative",
+      "after_id": "source-p-227",
+      "reason": "Original public/private/secret information and expression."
+    }
+  ],
+  "first-project": [
+    {
+      "module": "everyday",
+      "mode": "place",
+      "example": "creative",
+      "after_id": "source-p-82",
+      "reason": "Original Alex builds a garden game and observes a plant."
+    }
+  ]
+}
