@@ -6,6 +6,13 @@
       "example": "creative",
       "after_id": "source-p-37",
       "reason": "Original personal/place digital representation and continuity."
+    },
+    {
+      "module": "starter",
+      "mode": "favourites",
+      "example": "creative",
+      "after_id": "source-p-37",
+      "reason": "Original paragraph includes selected preferences and the young person's own meaning in their developing representation."
     }
   ],
   "family-and-identity": [
@@ -15,6 +22,13 @@
       "example": "memory",
       "after_id": "source-p-103",
       "reason": "Original chosen family/kin/friend memory preservation."
+    },
+    {
+      "module": "starter",
+      "mode": "family",
+      "example": "memory",
+      "after_id": "source-p-103",
+      "reason": "Original paragraph preserves several chosen family, kin and friendship connections without deciding identity for the person."
     }
   ],
   "community": [
@@ -24,6 +38,13 @@
       "example": "event",
       "after_id": "source-p-167",
       "reason": "Original teenager preparing community gathering material."
+    },
+    {
+      "module": "starter",
+      "mode": "dates",
+      "example": "event",
+      "after_id": "source-p-167",
+      "reason": "Original example concerns preparing gathering material and a later suitable invitation; the sample date confirms no actual event."
     }
   ],
   "people-and-control": [
@@ -42,6 +63,22 @@
       "example": "creative",
       "after_id": "source-p-82",
       "reason": "Original Alex builds a garden game and observes a plant."
+    },
+    {
+      "module": "starter",
+      "mode": "goals",
+      "example": "creative",
+      "after_id": "source-p-82",
+      "reason": "Original fictional game project starts with its purpose and a manageable first result."
+    }
+  ],
+  "adult-opportunities": [
+    {
+      "module": "starter",
+      "mode": "skills",
+      "example": "event",
+      "after_id": "source-p-132",
+      "reason": "Original paragraph connects making something useful with a mentor's next learning invitation."
     }
   ]
 }
