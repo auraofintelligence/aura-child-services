@@ -9,7 +9,7 @@ Rights: https://github.com/auraofintelligence/aura-child-services/blob/main/RIGH
 Original document: https://auraofintelligence.github.io/aura-child-services/documents/Aura_Genesis_Children_and_Teens_Australian_Care.docx
 
 ## Public pages
-- [Welcome](https://auraofintelligence.github.io/aura-child-services/): Begin with something you enjoy. Build understanding, make something of your own and find people who help you take the next step.
+- [Welcome](https://auraofintelligence.github.io/aura-child-services/): Understand powerful AI, ask better questions and create something of your own. This proposal connects young people’s agency with ethical technology, trusted adults and real opportunities to grow.
 - [A wider opportunity](https://auraofintelligence.github.io/aura-child-services/opportunity.html): The proposal connects everyday childhood opportunity with a wider question: how can young people share in the capabilities of increasingly powerful intelligence?
 - [Aura and self understanding](https://auraofintelligence.github.io/aura-child-services/personal-aura.html): A supported computing station offers a place to make, learn and reflect. The young person brings the meaning; the record can change as their understanding grows.
 - [Understanding law](https://auraofintelligence.github.io/aura-child-services/law-and-rights.html): Follow a question to a readable source. Learn why a rule exists, whose decision it affects and what needs checking in the present setting.

@@ -2,49 +2,158 @@
   "images": [
     {
       "id": "creative-project",
-      "file": "assets/images/creative-project.webp",
+      "file": "assets/images/creative-project-protopia-v3.webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 224214,
-      "sha256": "71ae7914139db03dc88280163bb340c2055dd83f425db8832438b891f72e41b3",
-      "source_filename": "exec-962cfcf2-7d4e-4b2f-91e3-edec6b2bb142.png",
-      "source_sha256": "e876989051a14e69c51e7db6b7a9352c0117fa77f40e90a647b06289f20aee7b",
+      "bytes": 339602,
+      "sha256": "ee3ddc982875bf29e1b3b9cc5bb8aa040b2e47ab60bd6f09489b33115115f2b7",
+      "source_filename": "exec-92cc1c2a-84e4-4d2d-a4a4-aedefd5d9f18.png",
+      "source_sha256": "aeb7148f5de87d14f70c0a75ef1fc5025ce36dfad9fbdd54ff89d1e78c439b68",
       "tool": "Built-in image_gen",
       "date": "2026-10-28",
-      "prompt": "Use case: photorealistic-natural. Asset type: landscape editorial concept image for a public Australian young people care and learning proposal website. Create an original warm, respectful natural photographic concept scene of a fictional 12-year-old learner, seen at a three-quarter rear angle rather than a close portrait, creating a little digital garden game on a desktop monitor at a simple light timber workspace. A calm adult facilitator sits alongside at an appropriate distance, encouraging the learner's own choices; one other adult visible in the open community learning room. The monitor shows a simple lush green garden environment, no text, no game branding. Accessible open desk, sketchbook, pencils, a small plant, daylight and leafy Queensland surroundings outside. Normal safe supervised creative learning, dignified and curious, not a clinic or institutional setting. Wide landscape composition 3:2 with all people and monitor visible, balanced documentary lighting, beautiful material texture. Warm cream, muted plum upholstery, sage green and apricot details. Fictional concept, no real identifiable child, no trauma, no medical treatment, no cameras recording the children, no logos or written words, no text overlay.",
-      "alt": "A fictional learner and adult facilitator explore a garden game in an open community learning room.",
-      "context": "AI-generated concept depicting fictional people and a proposed setting, not actual participants or facilities."
+      "generation_mode": "New original composition from user-supplied style and concept references",
+      "prompt": "Create a NEW original wide 3:2 editorial concept artwork for an Australian public proposal about a fair go in the age of superintelligence. Supplied images are style/concept references ONLY: draw on their characterful cinematic humanistic futurism, grounded interactions, confident purple clothing, purposeful blue technology and warm gold light. Do not copy any identifiable person, author, face, exact composition, lettering or branding from the references. Purple, electric blue and gold remain DISTINCT colours in actual garments, interfaces and materials; skin and environment have varied natural colours. NO flat purple wash, uniform tint, corporate-stock neutrality or rustic/hippie garden aesthetic. Warm timber and nature may appear as supporting context, never the main subject. Enthusiastic human agency, creativity and useful ethical technology matter. No official government, Olympic or party logos, signage or text; no clinical equipment, treatment, coercion or claims of operating services. All people fictional. Scene: a fictional young person about 12 in a characterful amethyst-purple overshirt actively directs the creation of their own imaginative adventure game on a large desktop display, pointing to a scene choice while a trusted adult facilitator in a plum jacket listens and helps them compare two explanations. Young person's agency and curiosity visibly drive the encounter. The game contains a recognisable coastal town opening toward an imaginative Earth-to-space future, small original friendly robots and pathways, with a separate panel of chosen creative records and a seven-nested horn-torus Aura motif whose rings meet at a shared central pinch; no lettering required. Show the actual screen clearly and two little physical storyboard cards on the desk, so this is purposeful learning about choices and AI rather than passive entertainment. A stowed XR headset sits beside a tablet, optional equipment not worn. Welcoming contemporary community creative studio, cream/soft-white walls, elegant timber-and-white desk, a few blue and purple materials, golden late-afternoon daylight and distant sea/urban horizon. Emotionally warm, slightly wondrous but tangible, visually rich polished cinema still. Main learner and adult remain the focal point. No bulky booth, no clinic, no demand for personal disclosure, no decorative plant-filled room.",
+      "reference_images": [
+        {
+          "basename": "ChatGPT Image 27 Oct 2026, 20_50_33.png",
+          "sha256": "cc1d38a95560824d1f6c578ea33f02c698c37b134d1319cd71c471429c6be789",
+          "role": "Style and concept reference; source image not copied into this website"
+        },
+        {
+          "basename": "ChatGPT Image 28 Oct 2026, 03_17_48.png",
+          "sha256": "2bdd86351a555a81be4096567b2ec091a5c77853fb8637b54c22ca477a40ac96",
+          "role": "Style and concept reference; source image not copied into this website"
+        },
+        {
+          "basename": "ChatGPT Image 28 Oct 2026, 00_37_51.png",
+          "sha256": "131fa3042a18af59ae375dfcef83e2e3b63c2863127506805a38a0ceb38401a5",
+          "role": "Style and concept reference; source image not copied into this website"
+        }
+      ],
+      "alt": "A fictional young person in purple directs a future-world game with a trusted adult; the display connects creative choices, friendly robots and a colourful personal Aura.",
+      "context": "AI-generated fictional editorial concept for a proposed future; not actual participants, operating facilities, tested capabilities or agreed services.",
+      "optimisation": "Converted from generated PNG to WebP quality 88 with Pillow; no pixel recolouring or filters.",
+      "previous_versions": [
+        {
+          "id": "creative-project",
+          "file": "assets/images/creative-project.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 224214,
+          "sha256": "71ae7914139db03dc88280163bb340c2055dd83f425db8832438b891f72e41b3",
+          "source_filename": "exec-962cfcf2-7d4e-4b2f-91e3-edec6b2bb142.png",
+          "source_sha256": "e876989051a14e69c51e7db6b7a9352c0117fa77f40e90a647b06289f20aee7b",
+          "tool": "Built-in image_gen",
+          "date": "2026-10-28",
+          "prompt": "Use case: photorealistic-natural. Asset type: landscape editorial concept image for a public Australian young people care and learning proposal website. Create an original warm, respectful natural photographic concept scene of a fictional 12-year-old learner, seen at a three-quarter rear angle rather than a close portrait, creating a little digital garden game on a desktop monitor at a simple light timber workspace. A calm adult facilitator sits alongside at an appropriate distance, encouraging the learner's own choices; one other adult visible in the open community learning room. The monitor shows a simple lush green garden environment, no text, no game branding. Accessible open desk, sketchbook, pencils, a small plant, daylight and leafy Queensland surroundings outside. Normal safe supervised creative learning, dignified and curious, not a clinic or institutional setting. Wide landscape composition 3:2 with all people and monitor visible, balanced documentary lighting, beautiful material texture. Warm cream, muted plum upholstery, sage green and apricot details. Fictional concept, no real identifiable child, no trauma, no medical treatment, no cameras recording the children, no logos or written words, no text overlay.",
+          "alt": "A fictional learner and adult facilitator explore a garden game in an open community learning room.",
+          "context": "AI-generated concept depicting fictional people and a proposed setting, not actual participants or facilities."
+        }
+      ]
     },
     {
       "id": "community-mentorship",
-      "file": "assets/images/community-mentorship.webp",
+      "file": "assets/images/community-mentorship-protopia-v3.webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 234822,
-      "sha256": "fabdb086a74a142cecbc6a7487d2fd064597893b14ea3d41f56e2b8fefe976c8",
-      "source_filename": "exec-1fb67562-8237-496e-8f76-e898c05bfc12.png",
-      "source_sha256": "b66d709c08e145285dffa055b6ef21d1c1086f37cbc8b8ad112a57288fffd3e3",
+      "bytes": 380266,
+      "sha256": "68bc7548b34b3dc1dc42c0219575096086087b492d942bcdf1605bf49c8a07d2",
+      "source_filename": "exec-598d7fd8-23c4-490c-af87-f671985ecc9b.png",
+      "source_sha256": "fa04530c597d658998e084f9fb34d03279be3737b585a5a45bfacc0f7a26cdc9",
       "tool": "Built-in image_gen",
       "date": "2026-10-28",
-      "prompt": "Use case: photorealistic-natural. Asset type: landscape editorial concept image for a public Australian young people learning and community proposal. Original candid photographic concept scene of a small mixed-age community group in an open, welcoming Queensland community workshop: two fictional older teenage learners aged 16-17 with an adult mentor and a mature volunteer, collaborating on a small garden sensor and sketch map of a community garden. An accessible table, notebook, small electronic sensor, plants and ordinary hand tools kept safely on the table. The young people direct the project and converse with the adults as respected collaborators. Warm daylight, open doors towards greenery, natural clothing, gentle plum and sage accents, welcoming warm paper/apricot material palette. Wide 3:2 composition, natural hands and interactions, positive ordinary creative learning. No logos, written slogans, actual identifiable people, clinic, trauma imagery, medical equipment or surveillance. Nothing suggests an operating service or guaranteed partnership. No text overlay.",
-      "alt": "Fictional older teenage learners and adult mentors collaborate on a small garden sensor in a community workshop.",
-      "context": "AI-generated concept depicting fictional people and a proposed setting, not actual participants or facilities."
+      "generation_mode": "New original composition from user-supplied style and concept references",
+      "prompt": "Create a NEW original wide 3:2 editorial concept artwork for an Australian public proposal about a fair go in the age of superintelligence. Supplied images are style/concept references ONLY: draw on their characterful cinematic humanistic futurism, grounded interactions, confident purple clothing, purposeful blue technology and warm gold light. Do not copy any identifiable person, author, face, exact composition, lettering or branding from the references. Purple, electric blue and gold remain DISTINCT colours in actual garments, interfaces and materials; skin and environment have varied natural colours. NO flat purple wash, uniform tint, corporate-stock neutrality or rustic/hippie garden aesthetic. Warm timber and nature may appear as supporting context, never the main subject. Enthusiastic human agency, creativity and useful ethical technology matter. No official government, Olympic or party logos, signage or text; no clinical equipment, treatment, coercion or claims of operating services. All people fictional. Scene: two fictional teenagers about 16-17, one in a rich violet hoodie and the other in an electric-blue work shirt with plum details, collaborate enthusiastically with two adult mentors in an open contemporary community technology studio. The teens lead: one adjusts a small safe wheeled robot prototype with a visible sensor while the other points out an accessible route in a bright desktop three-dimensional digital model of their coastal neighbourhood. The model shows transport, a learning hub and the proposed robot route, with clear electric-blue route lines and restrained gold decision markers. One older mentor wears a characterful plum-purple patterned jacket and listens while another checks the test setup. Close enough to see meaningful facial interaction, hands, robot and model display; not posing. A safe low platform contains the robot test, a tablet shows simple geometric alternatives, a few practical tools are organised neatly. The room combines light neutral surfaces, some warm timber, visible technology, blue/gold display accents and natural daylight, with an Australian coastal town beyond the windows. Future ambition is visible as a small space-habitat learning model on a secondary shelf. Cinematic, humanistic, confident and joyful, not a generic garden activity, not a sterile office, no text or logos.",
+      "reference_images": [
+        {
+          "basename": "ChatGPT Image 27 Oct 2026, 20_50_33.png",
+          "sha256": "cc1d38a95560824d1f6c578ea33f02c698c37b134d1319cd71c471429c6be789",
+          "role": "Style and concept reference; source image not copied into this website"
+        },
+        {
+          "basename": "choose-your-own-protopia-landscape-v1.png",
+          "sha256": "3c210ea98518df0f499489104729282d0e7f811b9a8d3fbed8d71aa1da3cfcff",
+          "role": "Style and concept reference; source image not copied into this website"
+        },
+        {
+          "basename": "ChatGPT Image 28 Oct 2026, 00_37_51.png",
+          "sha256": "131fa3042a18af59ae375dfcef83e2e3b63c2863127506805a38a0ceb38401a5",
+          "role": "Style and concept reference; source image not copied into this website"
+        }
+      ],
+      "alt": "Fictional teenagers lead a robot prototype and digital coastal-community model with mentors; purple garments, blue routes and gold markers retain distinct colours.",
+      "context": "AI-generated fictional editorial concept for a proposed future; not actual participants, operating facilities, tested capabilities or agreed services.",
+      "optimisation": "Converted from generated PNG to WebP quality 88 with Pillow; no pixel recolouring or filters.",
+      "previous_versions": [
+        {
+          "id": "community-mentorship",
+          "file": "assets/images/community-mentorship.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 234822,
+          "sha256": "fabdb086a74a142cecbc6a7487d2fd064597893b14ea3d41f56e2b8fefe976c8",
+          "source_filename": "exec-1fb67562-8237-496e-8f76-e898c05bfc12.png",
+          "source_sha256": "b66d709c08e145285dffa055b6ef21d1c1086f37cbc8b8ad112a57288fffd3e3",
+          "tool": "Built-in image_gen",
+          "date": "2026-10-28",
+          "prompt": "Use case: photorealistic-natural. Asset type: landscape editorial concept image for a public Australian young people learning and community proposal. Original candid photographic concept scene of a small mixed-age community group in an open, welcoming Queensland community workshop: two fictional older teenage learners aged 16-17 with an adult mentor and a mature volunteer, collaborating on a small garden sensor and sketch map of a community garden. An accessible table, notebook, small electronic sensor, plants and ordinary hand tools kept safely on the table. The young people direct the project and converse with the adults as respected collaborators. Warm daylight, open doors towards greenery, natural clothing, gentle plum and sage accents, welcoming warm paper/apricot material palette. Wide 3:2 composition, natural hands and interactions, positive ordinary creative learning. No logos, written slogans, actual identifiable people, clinic, trauma imagery, medical equipment or surveillance. Nothing suggests an operating service or guaranteed partnership. No text overlay.",
+          "alt": "Fictional older teenage learners and adult mentors collaborate on a small garden sensor in a community workshop.",
+          "context": "AI-generated concept depicting fictional people and a proposed setting, not actual participants or facilities."
+        }
+      ]
     },
     {
       "id": "future-work",
-      "file": "assets/images/future-work.webp",
+      "file": "assets/images/future-work-protopia-v3.webp",
       "width": 1536,
       "height": 1024,
-      "bytes": 204312,
-      "sha256": "0af82945f252f84e97351ac44d62373bd864ee1231aa3c3c306933fd0213742a",
-      "source_filename": "exec-50bfd0bf-2f71-4d1d-9e06-d37d643abd37.png",
-      "source_sha256": "0c5ee6d235736d2bd713b4c1c64d1a235d56df986da68ad3b6f5c4973ca3e34c",
+      "bytes": 386534,
+      "sha256": "79ec8fd4cc7fcbec5c15341a2fa44222dbe3ef0ecd5771cde0200caee0f23e64",
+      "source_filename": "exec-9eddb1c2-fee2-4601-a588-517bdcafe411.png",
+      "source_sha256": "2635413a02c155865038688d8f68af9c99323c413538d5e99f8d5832fda48749",
       "tool": "Built-in image_gen",
       "date": "2026-10-28",
-      "prompt": "Use case: photorealistic-natural. Asset type: landscape editorial concept image for an Australian future work and mentorship proposal website. Create an original natural photographic concept scene in a bright small Australian fabrication and repair studio. A fictional young adult aged about 20 and an experienced older business owner work side by side, inspecting a small desktop 3D-printed prototype and a repairable household object on a timber workbench. A computer with a simple abstract three dimensional object, tidy shelves, beautiful light tools, large windows overlooking leafy Australian streetscape. Show a dignified generational handover of knowledge, cooperative attention and a young person's agency. People are engaged rather than posing. Warm cream, plum, sage and apricot details, clear daylight, balanced wide 3:2 composition, documentary editorial realism. No real identifiable people, text, logos, promises of employment, clinical equipment or robots dominating humans. Fictional proposed setting, no text overlay.",
-      "alt": "A fictional young adult and experienced owner inspect a prototype in a repair and fabrication studio.",
-      "context": "AI-generated concept depicting fictional people and a proposed setting, not actual participants or facilities."
+      "generation_mode": "New original composition from user-supplied style and concept references",
+      "prompt": "Create a NEW original wide 3:2 editorial concept artwork for an Australian public proposal about a fair go in the age of superintelligence. Supplied images are style/concept references ONLY: draw on their characterful cinematic humanistic futurism, grounded interactions, confident purple clothing, purposeful blue technology and warm gold light. Do not copy any identifiable person, author, face, exact composition, lettering or branding from the references. Purple, electric blue and gold remain DISTINCT colours in actual garments, interfaces and materials; skin and environment have varied natural colours. NO flat purple wash, uniform tint, corporate-stock neutrality or rustic/hippie garden aesthetic. Warm timber and nature may appear as supporting context, never the main subject. Enthusiastic human agency, creativity and useful ethical technology matter. No official government, Olympic or party logos, signage or text; no clinical equipment, treatment, coercion or claims of operating services. All people fictional. Scene: a fictional young adult about 20, wearing a distinctive amethyst-purple utility jacket with subtle gold fastenings, works as an active designer alongside an experienced older business owner and mentor wearing a dark plum shirt, in an advanced Australian small manufacturing studio. They inspect a tangible elegant robotic-gripper prototype and compare its design to a large blue-and-gold CAD display. The young adult explains a choice while the mentor responds with engaged respect, suggesting a generational exchange of practical knowledge and future ownership opportunity without any financial promise. Behind a clear safe enclosure, a compact robot arm works on a precisely modelled component; another display or physical miniature connects that component to a speculative Earth-orbit habitat. Include purposeful AI/Aura assistance as a visible screen panel with linked design records and a small nested horn-torus motif, not a magical humanoid replacing the people. Warm clean timber work surface, metallic equipment, white and charcoal storage, practical purple tool details, characterful personal style. Beautiful varied natural skin tones, crisp daylight, warm gold task light and a distant blue city-and-coast horizon. Clear enthusiastic agency, learning and a protopian Earth-to-space ambition. Not a generic repair cafe, not rustic, not a sterile corporate stock photo, no slogans, logos or text.",
+      "reference_images": [
+        {
+          "basename": "choose-your-own-protopia-landscape-v1.png",
+          "sha256": "3c210ea98518df0f499489104729282d0e7f811b9a8d3fbed8d71aa1da3cfcff",
+          "role": "Style and concept reference; source image not copied into this website"
+        },
+        {
+          "basename": "ChatGPT Image 28 Oct 2026, 03_17_48.png",
+          "sha256": "2bdd86351a555a81be4096567b2ec091a5c77853fb8637b54c22ca477a40ac96",
+          "role": "Style and concept reference; source image not copied into this website"
+        },
+        {
+          "basename": "ChatGPT Image 28 Oct 2026, 00_37_51.png",
+          "sha256": "131fa3042a18af59ae375dfcef83e2e3b63c2863127506805a38a0ceb38401a5",
+          "role": "Style and concept reference; source image not copied into this website"
+        }
+      ],
+      "alt": "A fictional young adult in amethyst explains a robotic-gripper prototype to an experienced mentor, with Aura design records and an imagined orbital habitat on displays.",
+      "context": "AI-generated fictional editorial concept for a proposed future; not actual participants, operating facilities, tested capabilities or agreed services.",
+      "optimisation": "Converted from generated PNG to WebP quality 88 with Pillow; no pixel recolouring or filters.",
+      "previous_versions": [
+        {
+          "id": "future-work",
+          "file": "assets/images/future-work.webp",
+          "width": 1536,
+          "height": 1024,
+          "bytes": 204312,
+          "sha256": "0af82945f252f84e97351ac44d62373bd864ee1231aa3c3c306933fd0213742a",
+          "source_filename": "exec-50bfd0bf-2f71-4d1d-9e06-d37d643abd37.png",
+          "source_sha256": "0c5ee6d235736d2bd713b4c1c64d1a235d56df986da68ad3b6f5c4973ca3e34c",
+          "tool": "Built-in image_gen",
+          "date": "2026-10-28",
+          "prompt": "Use case: photorealistic-natural. Asset type: landscape editorial concept image for an Australian future work and mentorship proposal website. Create an original natural photographic concept scene in a bright small Australian fabrication and repair studio. A fictional young adult aged about 20 and an experienced older business owner work side by side, inspecting a small desktop 3D-printed prototype and a repairable household object on a timber workbench. A computer with a simple abstract three dimensional object, tidy shelves, beautiful light tools, large windows overlooking leafy Australian streetscape. Show a dignified generational handover of knowledge, cooperative attention and a young person's agency. People are engaged rather than posing. Warm cream, plum, sage and apricot details, clear daylight, balanced wide 3:2 composition, documentary editorial realism. No real identifiable people, text, logos, promises of employment, clinical equipment or robots dominating humans. Fictional proposed setting, no text overlay.",
+          "alt": "A fictional young adult and experienced owner inspect a prototype in a repair and fabrication studio.",
+          "context": "AI-generated concept depicting fictional people and a proposed setting, not actual participants or facilities."
+        }
+      ]
     }
   ],
-  "favicon": "Raster crop of creative-project original, resized to 128px; same provenance."
+  "favicon": "Unchanged 128px raster crop of the initial creative-project generation; original provenance retained in the creative-project previous_versions record.",
+  "visual_direction": "Characterful cinematic humanistic futurism; purposeful AI/Aura/robotics, meaningful human agency, distinct purple/electric blue/gold, varied natural colours and warmth, no flat purple wash."
 }
