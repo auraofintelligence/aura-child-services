@@ -1,13 +1,14 @@
 """Check generated navigation, document integrity, source coverage and public assets."""
 from pathlib import Path
 from html.parser import HTMLParser
-from urllib.parse import urlsplit, unquote
+from urllib.parse import urlsplit, unquote, urljoin
 import hashlib,json,re,sys
 ROOT=Path(__file__).resolve().parents[1]
 class Page(HTMLParser):
- def __init__(self):super().__init__();self.ids=set();self.links=[];self.assets=[];self.navlinks=[];self.in_nav=0;self.text=[]
+ def __init__(self):super().__init__();self.ids=set();self.links=[];self.assets=[];self.navlinks=[];self.in_nav=0;self.text=[];self.base=None
  def handle_starttag(self,tag,attrs):
   a=dict(attrs)
+  if tag=='base':self.base=a.get('href')
   if a.get('id'):self.ids.add(a['id'])
   if tag=='nav':self.in_nav+=1
   if tag=='a' and a.get('href'):
@@ -37,6 +38,16 @@ for name,page in pages.items():
  for p in routes:
   if p['id']+'.html' not in page.navlinks:errors.append(f'{name}: route absent from navigation: {p["id"]}')
  if 'noindex' not in (ROOT/name).read_text(encoding='utf8') and name=='404.html':errors.append('404 lacks noindex')
+ if name=='404.html':
+  nested='https://auraofintelligence.github.io/aura-child-services/missing/nested-page'
+  effective=urljoin(nested,page.base or '')
+  for target in page.assets+['sitemap.html']:
+   resolved=urlsplit(urljoin(effective,target))
+   if resolved.netloc!='auraofintelligence.github.io' or not resolved.path.startswith('/aura-child-services/'):
+    errors.append('Nested recovery leaves the project: '+target)
+   else:
+    relative=unquote(resolved.path[len('/aura-child-services/'):])
+    if not (ROOT/relative).is_file():errors.append('Nested recovery cannot resolve: '+target)
 source=json.loads((ROOT/'content/source.json').read_text(encoding='utf8'))
 all_text=' '.join(' '.join(p.text) for p in pages.values())
 norm=lambda s:re.sub(r'\s+','',s)
