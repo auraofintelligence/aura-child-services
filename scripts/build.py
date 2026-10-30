@@ -1,4 +1,4 @@
-from visual_examples import enhance_visual_document
+from basic_aura import enhance_basic_aura
 """Build the public guide from its unchanged user-supplied DOCX and editorial metadata."""
 from pathlib import Path
 import hashlib, html, json, re, shutil, zipfile
@@ -188,7 +188,7 @@ for p in PAGES:
     if p['id']=='connections':body+=connection_content()
     if p['id']=='licence':body+=about()
     if p['id']=='sitemap':body+=sitemap()
-    write(OUT/route(p),enhance_visual_document(p['id'],head(p)+nav(p['id'])+'<main id="main">'+body+'</main>'+footer(p)))
+    write(OUT/route(p),enhance_basic_aura(p['id'],head(p)+nav(p['id'])+'<main id="main">'+body+'</main>'+footer(p)))
 
 missing=dict(id='404',nav='Page not found',title='Let’s find your way.',eyebrow='PAGE NOT FOUND',intro='This address does not match a page in the guide. The sitemap lists every public chapter.')
 write(OUT/'404.html',head(missing,True)+nav('404')+'<main id="main">'+masthead(missing)+'<section class="wrap recovery"><a class="button" href="sitemap.html">Open the sitemap ↗</a></section></main>'+footer(PAGES[0]))
